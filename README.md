@@ -28,6 +28,13 @@
 </p>
 <h3 align="left"> 🐍 A Snake Eating my Contributions Graph </h3>
 
-![snake gif](https://github.com/andy1234254/andy1234254/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/andy1234254/andy1234254/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/andy1234254/andy1234254/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/andy1234254/andy1234254/output/github-contribution-grid-snake.svg">
+</picture>
 
  
