@@ -15,7 +15,9 @@
 <br>✔ User-Focused Design
 <br>✔ Intuitive interfaces
 <br>✔ Different points of view
-<br>✔ Mi Web Page: https://andy1234254.github.io/Mi-Sitio-Web/
+<br>✔ Mi Web Page:
+   
+[![Static Badge](https://img.shields.io/badge/Andy_Web-black?logo=googlechrome&logoColor=white&logoSize=auto)](https://andy1234254.github.io/Mi-Sitio-Web/)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left"> 🛠 Tech Stack </h3>
 <h4 align="left"> 🖥️ Programming Languages</h4>
