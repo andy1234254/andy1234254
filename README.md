@@ -17,7 +17,8 @@
 <br>✔ Different points of view
 <br>✔ Mi Web Page:
    
-[![Static Badge](https://img.shields.io/badge/Andy_Web-black?logo=googlechrome&logoColor=white&logoSize=auto)](https://andy1234254.github.io/Mi-Sitio-Web/)
+[![Static Badge](https://img.shields.io/badge/Mi_Sitio_Web%20-%20black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andy1234254.github.io/Mi-Sitio-Web/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%20blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sangoquiza-caiza-andy-jahir-059130418/)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left"> 🛠 Tech Stack </h3>
 <h4 align="left"> 🖥️ Programming Languages</h4>
